@@ -1,0 +1,126 @@
+Posición	País	IDG	MortalidadMaterna	FecundidadAdos	EnParlamento
+2	Suecia Suecia	0.052	4	6.5	44.7
+3	Suiza Suiza	0.057	8	3.9	26.8
+3	Dinamarca Dinamarca	0.057	12	5.1	39.1
+5	Noruega Noruega	0.065	7	7.4	39.6
+6	Alemania Alemania	0.075	7	6.8	32.4
+7	Finlandia Finlandia	0.075	5	9.3	42.5
+8	Eslovenia Eslovenia	0.08	12	4.5	23.1
+10	Islandia Islandia	0.089	5	11.6	39.7
+11	Italia Italia	0.094	4	4	20.7
+12	Bélgica Bélgica	0.098	8	11.2	38.9
+13	Singapur Singapur	0.101	3	6.7	23.5
+14	Austria Austria	0.102	4	9.7	28.7
+15	España España	0.103	6	10.7	34.9
+16	Portugal Portugal	0.114	8	12.5	28.7
+17	Australia Australia	0.115	7	12.5	29.2
+18	Canadá Canadá	0.119	12	11.3	28
+19	Irlanda Irlanda	0.121	6	8.8	19
+20	República Checa República Checa	0.122	5	9.2	21
+21	Japón Japón	0.131	5	6	13.4
+22	Chipre Chipre	0.134	10	5.5	10.7
+23	Grecia Grecia	0.136	3	9.6	21
+24	Polonia Polonia	0.14	5	12.2	21.8
+25	Israel Israel	0.144	7	14	20
+26	Luxemburgo Luxemburgo	0.149	20	8.4	20
+27	Argentina Argentina	0.153	16	5.8	15.7
+27	Corea del Sur Corea del Sur	0.153	16	5.8	15.7
+28	Lituania Lituania	0.157	8	16.1	19.1
+29	Estonia Estonia	0.158	2	17.2	19.8
+30	Macedonia del Norte Macedonia del Norte	0.162	10	17.8	30.9
+31	Nueva Zelanda Nueva Zelanda	0.164	15	18.6	32.2
+32	Eslovaquia Eslovaquia	0.171	6	16.7	17.3
+33	Croacia Croacia	0.174	17	12.8	23.8
+34	Reino Unido Reino Unido	0.205	12	29.7	22.1
+35	la República Popular China China	0.213	37	9.1	21.3
+36	Letonia Letonia	0.216	34	12.8	23
+37	Libia Libia	0.216	58	2.6	16.5
+38	Bulgaria Bulgaria	0.219	11	36.2	20.8
+39	Malta Malta	0.236	8	11.8	8.7
+40	Emiratos Árabes Unidos Emiratos Árabes Unidos	0.241	12	23.4	17.5
+41	Albania Albania	0.251	27	14.9	15.7
+42	Malasia Malasia	0.256	29	9.8	13.2
+43	Estados Unidos Estados Unidos	0.256	21	27.4	17
+44	Hungría Hungría	0.256	21	13.6	8.8
+45	Baréin Baréin	0.258	20	14.8	18.8
+46	Túnez Túnez	0.261	56	4.4	26.7
+47	Flag of Kuwait.svg Kuwait	0.274	14	14.4	6.3
+48	Vietnam Vietnam	0.299	59	22.7	24.4
+49	Moldavia Moldavia	0.303	41	29.1	19.8
+50	Trinidad y Tobago Trinidad y Tobago	0.311	46	31.6	27.4
+51	Rusia Rusia	0.312	34	23.2	11.1
+51	Kazajistán Kazajistán	0.312	51	25.5	18.2
+53	Bahamas Bahamas	0.316	47	28.3	16.7
+54	Azerbaiyán Azerbaiyán	0.323	43	31.4	16
+55	Rumania Rumania	0.327	27	28.8	9.7
+56	Mongolia Mongolia	0.328	63	18.7	12.7
+57	Ucrania Ucrania	0.338	32	26.1	8
+57	Tayikistán Tayikistán	0.338	65	25.7	17.5
+59	Omán Omán	0.34	32	9.3	9.6
+59	Armenia Armenia	0.34	30	33.2	10.7
+62	Costa Rica Costa Rica	0.346	40	61.9	38.6
+63	Cuba Cuba	0.356	73	43.9	45.2
+64	Maldivas Maldivas	0.357	60	10.2	6.5
+64	Kirguistán Kirguistán	0.357	71	33	23.3
+66	Chile Chile	0.36	25	56	13.9
+66	Tailandia Tailandia	0.36	48	37	15.7
+68	Turquía Turquía	0.366	20	30.5	14.2
+69	Uruguay Uruguay	0.367	29	59	12.3
+70	Mauricio Mauricio	0.377	60	31.8	18.8
+72	México México	0.382	50	65.5	36
+73	Bandera del Perú Perú	0.387	67	48.7	21.5
+74	Argelia Argelia	0.391	97	6.1	25.6
+75	Sri Lanka Sri Lanka	0.402	35	22.1	5.8
+76	Ruanda Ruanda	0.414	340	35.5	51.9
+77	Filipinas Filipinas	0.418	99	46.5	22.1
+78	Líbano Líbano	0.433	25	15.4	3.1
+79	Belice Belice	0.435	53	70.8	13.3
+80	Birmania Birmania	0.437	200	12	4.6
+81	Georgia Georgia	0.438	67	39.5	6.6
+82	El Salvador El Salvador	0.441	81	76.2	26.2
+83	Ecuador Ecuador	0.442	110	80.6	32.3
+84	Marruecos Marruecos	0.444	100	10.8	11
+85	Brasil Brasil	0.447	56	76	9.6
+86	Namibia Namibia	0.455	200	54.4	25
+87	Jamaica Jamaica	0.458	110	69.7	15.5
+88	Colombia Colombia	0.459	92	68.1	13.6
+89	Nicaragua Nicaragua	0.461	95	104.9	40.2
+90	Tonga Tonga	0.462	110	18	3.6
+90	Sudáfrica Sudáfrica	0.462	300	50.4	41.1
+92	Bután Bután	0.464	180	44.9	13.9
+93	Venezuela Venezuela	0.466	92	87.3	17
+94	Surinam Surinam	0.467	130	34.9	11.8
+95	Paraguay Paraguay	0.472	99	46.5	22.1
+96	Camboya Camboya	0.473	250	32.9	18.1
+97	Bolivia Bolivia	0.474	190	74.7	30.1
+98	Burundi Burundi	0.476	800	20.9	34.9
+99	Jordania Jordania	0.482	63	23.7	11.1
+100	Honduras Honduras	0.483	100	85.9	19.5
+100	Laos Laos	0.483	470	30.1	25
+102	Botsuana Botsuana	0.485	160	43.8	7.9
+102	Nepal Nepal	0.485	170	86.2	33.2
+104	Guyana Guyana	0.49	280	53.9	31.3
+105	Gabón Gabón	0.492	230	81	16.7
+106	Indonesia Indonesia	0.494	220	42.3	18.2
+107	Irán Irán	0.496	21	25	3.1
+108	Panamá Panamá	0.503	92	75.9	8.5
+109	República Dominicana República Dominicana	0.508	150	103.6	19.1
+110	Uganda Uganda	0.517	310	126.4	35
+111	Bangladés Bangladés	0.518	240	68.2	19.7
+112	Suazilandia Suazilandia	0.525	320	67.9	21.9
+113	Lesoto Lesoto	0.534	620	60.8	26.1
+114	Guatemala Guatemala	0.539	120	102.4	13.3
+115	Senegal Senegal	0.54	370	89.7	41.6
+116	Zimbabue Zimbabue	0.544	570	53.4	17.9
+117	Catar Catar	0.546	7	15.5	0.1
+118	Siria Siria	0.551	70	36.5	12
+119	Tanzania Tanzania	0.556	460	128.7	36
+120	Irak Irak	0.557	63	85.9	25.2
+121	Ghana Ghana	0.565	350	62.4	8.3
+122	Togo Togo	0.566	300	54.3	11.1
+123	Pakistán Pakistán	0.567	260	28.1	21.1
+124	Malaui Malaui	0.573	460	105.6	22.3
+125	Mozambique Mozambique	0.582	490	124.4	39.2
+126	Egipto Egipto	0.590	66	40.6	2.2
+127	Haití Haití	0.592	350	41.3	4
+128	Gambia Gambia	0.594	360	66.9	7.5
