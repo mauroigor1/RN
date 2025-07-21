@@ -1,2 +1,2 @@
 # RN
-Lecture materials (disordered) from a neural networks course.
+Lecture materials (messy) from a neural networks course.
